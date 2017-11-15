@@ -1,0 +1,32 @@
+.sections {
+    padding: 20px;
+    margin: 0px;
+}
+.header {
+border-bottom: solid;
+}
+#name {
+    text-align: left;
+    font-family: Georgia;
+    width:250px;
+    padding: 10px 0px 10px 15px;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    margin-left: 300px;
+}
+.links ul li {
+    padding: 10px;
+    list-style-type: none;
+    float: right;
+    top:0;
+    right:0;
+    display: inline;
+    overflow: auto;
+}
+.aboutme {
+    margin-left: 300px;
+    width: 650px;
+    float: left;
+}
+.letsconnect {
+    float: right;
