@@ -1,0 +1,46 @@
+header {
+
+    padding-bottom: 0px;
+    border-bottom: solid;
+    border-bottom-width: 100%;
+}
+#name {
+    margin-left: 25%;
+    margin-right: 450px;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 25px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+}
+.links {
+    /* margin-left: 50%; */
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li {
+    padding: 10px;
+}
+.entirecontent {
+    margin-top: 25px;
+    /* width: 650px; */
+
+}
+.aboutme {
+}
+h2 {
+    
+    font-size: 30px;
+    font-weight: bold;
+    color: #4aaaa5;
+    padding-left: 25px;
+    padding-right: 350px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-bottom: solid;
+    border-bottom-color: black;
+    margin-bottom: 25px;
+}
