@@ -1,0 +1,255 @@
+body {
+    background-image: url('./../images/spirationlight/spiration-light.png')
+}
+header {
+    border-bottom: solid;
+    border-bottom-color: #c9c7c7;;
+    border-bottom-width: 0.5px;
+    border-bottom-style: ridge;
+    width: 100%;
+    position: absolute;
+    padding-left: 10%;
+    background-color: #ffffff;
+}
+h1 {
+    padding: 25px;
+    font-size: 25px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #4aaaa5;
+}
+
+main {
+    width: 960px;
+    margin-top: 100px;
+    margin-left: 140px;
+}
+.aboutme {
+    width: 600px;
+    float:left;
+    background-color: #ffffff;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 30px;
+    border: solid;
+    border-width:0.5px;
+    border-color: #e4e4e4;
+}
+h2 {
+    font-size: 25px;
+    font-weight: bold;
+    color: #4aaaa5;
+    margin-top: 30px;
+    padding-bottom: 30px;
+    border-bottom: solid;
+    border-bottom-color: #c9c7c7;
+    border-bottom-width: 2px;
+    padding-right: 487px;
+}
+.paragraphs {
+    margin-top: 20px;
+    float:left; 
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+}
+.paragraphs img {
+    float: left;
+    width: 300px;
+    height: 200px;
+}
+.letsconnect {
+    right: 250px;
+    width: 270px;
+    position: absolute;
+    background-color: #ffffff;
+    border: solid;
+    border-width:0.5px;
+    border-color: #e4e4e4;
+}
+.gitimg img {
+    width: 55px;
+    margin-left: 55px;
+    margin-bottom: 35px;
+}
+.linkimg img {
+    width: 55px;
+    position: absolute;
+    bottom: 38px;
+}
+.overimg img {
+    width: 50px;
+    position: absolute;
+    right: 46px;
+    bottom: 40px;
+}
+h3 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #4aaaa5;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    margin-left: 55px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-bottom: solid;
+    border-bottom-color: #c9c7c7;
+    border-bottom-width: 0.5px;
+
+}
+li a {
+    padding-left: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+    text-decoration: none;
+}
+.links {
+    margin-left: 538px;
+}
+footer {
+    bottom: 0;
+    margin-top: 30px;
+    text-align: center;
+    padding-left: 570px;
+    padding-right: 619px;
+    padding-top: 45px;
+    padding-bottom: 12px;
+    background-color: rgb(99, 97, 97);
+    border-top: solid;
+    border-top-width: 8px;
+    border-top-color: #4aaaa5;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #ffffff;
+}
+/* css for the contact page exclusively */
+.namebox input {
+    width: 567px;
+    height: 25px;
+    margin-top: 10px;
+}
+.namebox form {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #777777;
+    margin-top: 25px;
+}
+.emailbox input {
+    width: 567px;
+    height:25px;
+    margin-top: 10px;
+}
+.emailbox form {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #777777;
+    margin-top: 15px;
+}
+.messagebox input {
+    width: 567px;
+    height: 250px;
+    margin-top: 10px;
+}
+.messagebox form {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #777777;
+    margin-top: 15px;
+}
+input[type=submit] {
+    background-color: #4aaaa5;
+    border: none;
+    width: 110px;
+    height: 40px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff; 
+}
+/* css for portfolio page exclusively */
+.containerone {
+    position: relative;
+    text-align: center;
+    float: left;
+    margin-top: 30px;
+}
+.randomtextone {
+    position: absolute;
+    top: 125px;
+    left: 0;
+    width: 280px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    font-size:18px;
+}
+.containertwo {
+    position: relative;
+    text-align: center;
+    float: left;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.randomtexttwo {
+    position: absolute;
+    top: 125px;
+    left: 0;
+    width: 280px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    font-size:18px;
+}
+.containerthree {
+    position: relative;
+    text-align: center;
+    float: left;
+    margin-top: 35px;
+}
+.randomtextthree {
+    position: absolute;
+    top: 125px;
+    left: 0;
+    width: 280px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    font-size:18px;
+} 
+.containerfour {
+    position: relative;
+    text-align: center;
+    float: left;
+    margin-top: 35px;
+    margin-left: 20px;
+}
+.randomtextfour {
+    position: absolute;
+    top: 125px;
+    left: 0;
+    width: 280px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    font-size:18px;
+}
+.containerfive {
+    position: relative;
+    text-align: center;
+    float: left;
+    margin-top: 35px;
+}
+.randomtextfive {
+    position: absolute;
+    top: 125px;
+    left: 0;
+    width: 280px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    font-size:18px;
+}
